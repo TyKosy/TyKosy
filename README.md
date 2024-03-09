@@ -4,9 +4,9 @@
 - 💞️ je souhaiterais créer une communication de communauté pour structurer une plateforme d'outils numériques...
 - 📫 aidez moi à engendrer des liens coopératifs de ce processus créatif...
 - 😄 Pronouns: PatricK
-- ⚡ Fun fact: ... la joie de créer ensemble à partir de ce vide, un univers magnifique !
+- ⚡ Fun fact: ... la joie de créer ensemble à partir de ce vide, un univers magnifique ! ....
 
-<!---
+<!--- 
 TyKosy/TyKosy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
